@@ -2,7 +2,7 @@
 int main()
 {
 	int n, no, s=0;
-	printf("Enter the no you want to reverse: ");
+	printf("Enter the number you want to reverse: ");
 	scanf("%d",&n);
 
 	for(;n>0;) {
